@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 100
 
 title: Skills
 subtitle:
@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: c-project
   icon_pack: fab
   name: R
 - description: 100%
