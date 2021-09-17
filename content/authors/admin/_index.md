@@ -70,7 +70,7 @@ email: "rui.li@kaust.edu.sa"
 highlight_name: true
 ---
 
-Ｉ am currently a Ph.D. student in KAUST, Visual Computing Center, working with Prof. Wolfgang Heidrich. Before that, I obtained my bachelor's degree in Xidian University, School of Telecommunications Engineering, mainly work in ISN, and then went to University of Science and Technology of China (USTC), School of Information Science and Technology, and joined in Dept. Electronic Engineering and Information Science as a master's student. My research interests are computational photography, graphics, computer vision, especially photo-realistic 3D reconstruction.
+Ｉ am currently a Ph.D. student in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, I obtained my bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, as a master's student. 
 Meanwhile, I am also interested in algorithmic trading, also be an active daily trader in cryptocurrency markets.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
