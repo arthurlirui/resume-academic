@@ -2,7 +2,7 @@
 title: "IntraTomo: Self-supervised Learning-based Tomography via Sinogram
   Synthesis and Prediction"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Guangming Zang
   - Ramzi Idoughi
