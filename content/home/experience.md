@@ -50,7 +50,7 @@ experience:
         
   - title: Research Intern
     company: DJI
-    company_url: ''
+    company_url: 'https://www.dji.com/'
     company_logo: dji
     location: Shen Zhen, China
     date_start: '2014-09-01'
