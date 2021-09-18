@@ -31,7 +31,7 @@ education:
   - course: M.S. in Information and Communication Engineering
     institution: University of Science and Technology of China
     year: 2013
-  - course: BSc in Information and Communication Engineering
+  - course: BSc in Communication Engineering
     institution: Xidian University
     year: 2009
 
