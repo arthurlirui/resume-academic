@@ -51,7 +51,7 @@ experience:
   - title: Research Assistant
     company: HKUST
     company_url: 'https://hkust.edu.hk/'
-    company_logo: hkust
+    company_logo: hkust2
     location: Hong Kong
     date_start: '2016-02-01'
     date_end: '2016-08-01'
