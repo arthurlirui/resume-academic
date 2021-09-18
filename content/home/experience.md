@@ -28,7 +28,7 @@ experience:
 #    company_logo: org-gc
     location: Internet
     date_start: '2021-03-01'
-    date_end: 'now'
+    date_end: ''
     description: make digital art in blockchain, especiall from real scene data.
   - title: Founder
     company: algotech
@@ -36,7 +36,7 @@ experience:
 #    company_logo: org-gc
     location: Internet
     date_start: '2017-10-01'
-    date_end: 'now'
+    date_end: ''
     description: make digital art in blockchain, especiall from real scene data.
     
   - title: Research Intern
