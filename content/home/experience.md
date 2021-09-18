@@ -25,7 +25,7 @@ experience:
   - title: Founder
     company: capmake
     company_url: ''
-    company_logo: kaust
+    company_logo: org-gc
     location: California
     date_start: '2021-02-01'
     date_end: ''
@@ -37,13 +37,21 @@ experience:
         * Deploying
         
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: State Key Laboratory of Integrated Services Networks
     company_url: ''
-    company_logo: org-x
+    company_logo: isn2
     location: California
-    date_start: '2016-01-01'
+    date_start: '2013-03-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: State Key Laboratory of Integrated Services Networks
+    company_url: ''
+    company_logo: isn2
+    location: Xian, China
+    date_start: '2013-03-01'
+    date_end: '2013-5-31'
+    description: Front-end engineer, design web page for visualizing vechicle, transportation data.
 
 design:
   columns: '2'
