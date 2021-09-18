@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Guangming Zang
   - Ramzi Idoughi
-  - Rui Li
+  - admin
   - Peter Wonka
   - Wolfgang Heidrich
 publication: In ICCV. 2021
