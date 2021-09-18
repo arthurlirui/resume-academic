@@ -71,6 +71,7 @@ highlight_name: true
 ---
 
 Ｉ am currently a Ph.D. student in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, I obtained my bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, as a master's student. 
-Meanwhile, I am also interested in algorithmic trading, also be an active daily trader in cryptocurrency markets.
+
+Meanwhile, I founded [capmake](capmake.com) that works on blockchain digital arts and makes 3D NFT, as for algorithmic trading in cryptocurrency, I am also interested in high frequency trading, here are some works [algotech](www.algotech.cc).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
