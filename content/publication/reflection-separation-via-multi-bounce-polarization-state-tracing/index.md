@@ -31,7 +31,7 @@ abstract: Reflection removal from photographs is an important task in
   our method with extensive experiments on both real and synthetic data and
   demonstrate the unprecedented quality of image reconstructions.
 draft: false
-featured: false
+featured: true
 tags: []
 categories: []
 projects:
@@ -39,7 +39,7 @@ projects:
 image:
   filename: featured.png
   focal_point: SMART
-  preview_only: false
+  preview_only: true
   alt_text: ""
   caption: " Light reflection and transmission model: Incident angle θi,
     reflection angle θr, transmission angle θt, and POI. (a) Object surface and
