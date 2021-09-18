@@ -47,7 +47,16 @@ experience:
     date_start: '2017-05-01'
     date_end: '2017-10-01'
     description: firmware developer, algorithm developer for vechicle detection by utral sonic sensor.  
-        
+  
+  - title: Research Assistant
+    company: HKUST
+    company_url: 'https://hkust.edu.hk/'
+    company_logo: hkust
+    location: Hong Kong
+    date_start: '2016-02-01'
+    date_end: '2016-08-01'
+    description: design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
+  
   - title: Research Intern
     company: DJI
     company_url: 'https://www.dji.com/'
