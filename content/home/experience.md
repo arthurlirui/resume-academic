@@ -25,7 +25,7 @@ experience:
   - title: Founder
     company: capmake
     company_url: ''
-    company_logo: org-gc
+#    company_logo: org-gc
     location: California
     date_start: '2021-02-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: State Key Laboratory of Integrated Services Networks
     company_url: ''
-    company_logo: org-gc
+#    company_logo: org-gc
     location: California
     date_start: '2013-03-01'
     date_end: '2020-12-31'
@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant
     company: State Key Laboratory of Integrated Services Networks
     company_url: ''
-    company_logo: isn2.png
+#    company_logo: isn2.png
     location: Xian, China
     date_start: '2013-03-01'
     date_end: '2013-05-31'
