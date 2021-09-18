@@ -10,8 +10,8 @@ authors:
 author_notes:
   - KAUST
 doi: https://doi.org/10.1145/3355089.3356521
-publication: Siggraph Asia 2019
-publication_short: Siggraph Asia 2019
+publication: In Siggraph Asia, 2019
+publication_short: In Siggraph Asia, 2019
 abstract: >-
   Image segmentation is an important first step of many image processing,
   computer graphics, and computer vision pipelines. Unfortunately, it remains
