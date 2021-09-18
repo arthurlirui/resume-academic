@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Founder
-    company: capmake
+    company: Capmake
     company_url: 'https://www.capmake.com'
 #    company_logo: org-gc
     location: Internet
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: make digital art in blockchain, especiall from real scene data.
   - title: Founder
-    company: algotech
+    company: Algotech
     company_url: 'https://www.algotech.cc'
 #    company_logo: org-gc
     location: Internet
@@ -50,7 +50,7 @@ experience:
         
   - title: Research Intern
     company: DJI
-    company_url: ''
+    company_url: 'https://www.dji.com/'
     company_logo: dji
     location: Shen Zhen, China
     date_start: '2014-09-01'
