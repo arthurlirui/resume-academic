@@ -51,10 +51,10 @@ experience:
   - title: Research Intern
     company: DJI
     company_url: ''
-#    company_logo: org-gc
+    company_logo: isn2
     location: Shen Zhen, China
     date_start: '2014-09-01'
-    date_end: '2015-8-31'
+    date_end: '2015-08-31'
     description: design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
     
   - title: Research Assistant
