@@ -5,7 +5,7 @@ publication_types:
   - "1"
   - "2"
 authors:
-  - Rui Li
+  - "**Rui Li**"
   - Wolfgang Heidrich
 author_notes:
   - KAUST
