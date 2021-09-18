@@ -5,6 +5,7 @@ publication_types:
 authors:
   - admin
   - Lu Fang
+publication: In CVPRW, 2016
 draft: false
 featured: true
 image:
