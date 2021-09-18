@@ -15,7 +15,6 @@ content:
     tag: ""
   order: desc
 design:
-<<<<<<< HEAD
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
