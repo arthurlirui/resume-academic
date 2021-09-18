@@ -47,5 +47,5 @@ image:
     reflected the (blue) and transmitted (red) scenes. The top-right is a a
     color polarization camera with micropolarizer at four different angles and
     Bayer filter layout."
-date: 2021-09-18T12:02:39.628Z
+date: 2020-09-01T12:02:00.000Z
 ---
