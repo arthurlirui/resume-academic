@@ -39,7 +39,7 @@ projects:
 image:
   filename: featured.png
   focal_point: SMART
-  preview_only: true
+  preview_only: false
   alt_text: ""
   caption: " Light reflection and transmission model: Incident angle θi,
     reflection angle θr, transmission angle θt, and POI. (a) Object surface and
