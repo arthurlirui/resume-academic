@@ -39,5 +39,5 @@ image:
     segmentation, mean color regions, and object selection (which requires
     additional user input). We also show the EPIs for different horizontal and
     vertical slices."
-date: 2021-09-18T10:25:51.609Z
+date: 2019-12-31T22:00:00.000Z
 ---
