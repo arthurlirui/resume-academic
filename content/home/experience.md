@@ -24,32 +24,44 @@ date_format: Jan 2006
 experience:
   - title: Founder
     company: capmake
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-02-01'
+    company_url: 'https://www.capmake.com'
+#    company_logo: org-gc
+    location: Internet
+    date_start: '2021-03-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: make digital art in blockchain, especiall from real scene data.
+  - title: Founder
+    company: algotech
+    company_url: 'https://www.algotech.cc'
+#    company_logo: org-gc
+    location: Internet
+    date_start: '2017-10-01'
+    date_end: ''
+    description: make digital art in blockchain, especiall from real scene data.
+    
+  - title: Research Intern
+    company: Sadeem
+    company_url: 'https://sadeemwss.com/'
+    company_logo: sadeem
+    location: Jeddah, Saudi Arabia
+    date_start: '2017-05-01'
+    date_end: '2017-10-01'
+    description: firmware developer, algorithm developer for vechicle detection by utral sonic sensor.  
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: State Key Laboratory of Integrated Services Networks
+  - title: Research Intern
+    company: DJI
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2013-03-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: dji
+    location: Shen Zhen, China
+    date_start: '2014-09-01'
+    date_end: '2015-08-31'
+    description: design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
     
   - title: Research Assistant
     company: State Key Laboratory of Integrated Services Networks
     company_url: ''
-    company_logo: org-gc
-    location: Xian, China
+    company_logo: isn2
+    location: Xi'an, China
     date_start: '2013-03-01'
     date_end: '2013-05-31'
     description: Front-end engineer, design web page for visualizing vechicle, transportation data.
