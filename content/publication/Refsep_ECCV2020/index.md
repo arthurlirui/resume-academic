@@ -31,7 +31,7 @@ abstract: Reflection removal from photographs is an important task in
   our method with extensive experiments on both real and synthetic data and
   demonstrate the unprecedented quality of image reconstructions.
 draft: false
-featured: true
+featured: false
 tags: []
 categories: []
 projects:
