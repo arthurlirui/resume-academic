@@ -30,7 +30,7 @@ categories: []
 projects:
   - https://github.com/arthurlirui/LFSeg
 image:
-  filename: teaser_tog19.png
+  filename: featured.png
   focal_point: SMART
   preview_only: true
   alt_text: ""
