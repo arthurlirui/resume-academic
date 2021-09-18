@@ -42,7 +42,7 @@ experience:
   - title: Research Intern
     company: Sadeem
     company_url: 'https://sadeemwss.com/'
-#    company_logo: org-gc
+    company_logo: sadeem
     location: Jeddah, Saudi Arabia
     date_start: '2017-05-01'
     date_end: '2017-10-01'
@@ -51,7 +51,7 @@ experience:
   - title: Research Intern
     company: DJI
     company_url: ''
-    company_logo: isn2
+    company_logo: dji
     location: Shen Zhen, China
     date_start: '2014-09-01'
     date_end: '2015-08-31'
@@ -60,7 +60,7 @@ experience:
   - title: Research Assistant
     company: State Key Laboratory of Integrated Services Networks
     company_url: ''
-#    company_logo: isn2.png
+    company_logo: isn2
     location: Xi'an, China
     date_start: '2013-03-01'
     date_end: '2013-05-31'
