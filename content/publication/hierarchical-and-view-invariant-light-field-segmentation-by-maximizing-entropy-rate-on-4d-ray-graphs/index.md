@@ -1,7 +1,7 @@
 ---
 title: Hierarchical and View-invariant Light Field Segmentation by Maximizing
   Entropy Rate on 4D Ray Graphs
-subtitle: LITOG2019
+subtitle: ""
 publication_types:
   - "1"
   - "2"
