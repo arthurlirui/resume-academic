@@ -6,10 +6,10 @@ authors:
   - admin
   - Lu Fang
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2021-09-18T12:50:07.665Z
 ---
