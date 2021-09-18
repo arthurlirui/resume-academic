@@ -25,7 +25,7 @@ experience:
   - title: Founder
     company: capmake
     company_url: ''
-    company_logo: org-gc
+    company_logo: kaust
     location: California
     date_start: '2021-02-01'
     date_end: ''
