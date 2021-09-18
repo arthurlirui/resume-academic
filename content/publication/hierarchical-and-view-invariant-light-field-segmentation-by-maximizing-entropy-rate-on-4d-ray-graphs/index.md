@@ -31,8 +31,8 @@ projects:
   - https://github.com/arthurlirui/LFSeg
 image:
   filename: teaser_tog19.png
-  focal_point: CENTER
-  preview_only: false
+  focal_point: SMART
+  preview_only: true
   alt_text: ""
   caption: "Our light field segmentation method facilities segmentation of fine
     structures in light fields with complex occlusions and difficult textures.
