@@ -9,6 +9,8 @@ authors:
   - Guyue Zhou
   - Lu Fang
 doi: https://10.1109/CVPRW.2016.11
+publication: In CVPRW, 2016
+publication_short: In CVPRW, 2016
 draft: false
 featured: true
 projects:
