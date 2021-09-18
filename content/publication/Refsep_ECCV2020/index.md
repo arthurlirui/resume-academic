@@ -38,7 +38,7 @@ projects:
   - https://github.com/arthurlirui/Multi-bouncePolarizationState
 image:
   filename: featured.png
-  focal_point: CENTER
+  focal_point: SMART
   preview_only: true
   alt_text: ""
   caption: " Light reflection and transmission model: Incident angle θi,
