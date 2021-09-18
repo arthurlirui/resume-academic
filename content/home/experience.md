@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant
     company: State Key Laboratory of Integrated Services Networks
     company_url: ''
-    company_logo: org-gc
+    company_logo: isn2.png
     location: Xian, China
     date_start: '2013-03-01'
     date_end: '2013-05-31'
