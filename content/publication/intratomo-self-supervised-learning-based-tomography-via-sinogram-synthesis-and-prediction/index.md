@@ -2,11 +2,11 @@
 title: "IntraTomo: Self-supervised Learning-based Tomography via Sinogram
   Synthesis and Prediction"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Guangming Zang
   - Ramzi Idoughi
-  - Rui Li
+  - admin
   - Peter Wonka
   - Wolfgang Heidrich
 publication: In ICCV. 2021
@@ -39,6 +39,6 @@ featured: true
 image:
   filename: featured
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2021-09-18T12:09:03.758Z
 ---

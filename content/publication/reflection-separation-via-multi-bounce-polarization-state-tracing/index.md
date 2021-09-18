@@ -1,10 +1,10 @@
 ---
 title: Reflection Separation via Multi-bounce Polarization State Tracing
-subtitle: ""
+subtitle: In ECCV, 2020
 publication_types:
   - "1"
 authors:
-  - Rui Li
+  - admin
   - Simeng Qiu
   - Guangming Zang
   - Wolfgang Heidrich
