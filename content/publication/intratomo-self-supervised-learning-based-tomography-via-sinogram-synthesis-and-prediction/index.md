@@ -36,6 +36,8 @@ abstract: |-
   quality.
 draft: false
 featured: true
+projects:
+  - intratomo-self-supervised-learning-based-tomography-via-sinogram-synthesis-and-prediction
 image:
   filename: featured
   focal_point: Smart
