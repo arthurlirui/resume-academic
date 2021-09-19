@@ -1,5 +1,5 @@
 ---
-title: Rui Li
+title: Rui Li (李睿)
 role: Ph.D. Student
 bio: PhD student in KAUST
 interests:
