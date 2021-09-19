@@ -14,7 +14,7 @@ publication_short: In CVPRW, 2016
 draft: false
 featured: true
 projects:
-  - UAVs
+  - monocular-long-term-target-following-on-uavs
 image:
   filename: featured
   focal_point: Smart
