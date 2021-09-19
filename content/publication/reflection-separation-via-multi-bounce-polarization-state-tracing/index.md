@@ -35,7 +35,7 @@ featured: true
 tags: []
 categories: []
 projects:
-  - https://github.com/arthurlirui/Multi-bouncePolarizationState
+  - reflection-separation-via-multi-bounce-polarization-state-tracing
 image:
   filename: featured.png
   focal_point: SMART

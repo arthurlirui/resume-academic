@@ -8,6 +8,8 @@ authors:
 publication: In CVPRW, 2016
 draft: false
 featured: true
+projects:
+  - cluster-sensing-superpixel-and-grouping
 image:
   filename: featured
   focal_point: Smart

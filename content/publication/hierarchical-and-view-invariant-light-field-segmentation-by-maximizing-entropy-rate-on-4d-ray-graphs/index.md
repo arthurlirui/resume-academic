@@ -28,7 +28,7 @@ featured: true
 tags: []
 categories: []
 projects:
-  - https://github.com/arthurlirui/LFSeg
+  - hierarchical-and-view-invariant-light-field-segmentation-by-maximizing-entropy-rate-on-4d-ray-graphs
 image:
   filename: featured.png
   focal_point: SMART
