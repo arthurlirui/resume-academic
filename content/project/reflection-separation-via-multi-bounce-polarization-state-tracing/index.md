@@ -1,21 +1,16 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
-summary: Reflection Separation
+date: 2016-04-27T00:00:00.000Z
+summary: Reflection Separation via Multi-bounce Polarization State Tracing
 url_video: ""
 title: Reflection Separation and Removal
-subtitle: Reflection Separation via Multi-bounce Polarization State Tracing
+subtitle: ""
 featured: true
-tags:
-  - Deep Learning
+tags: []
 external_link: ""
 url_slides: ""
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
