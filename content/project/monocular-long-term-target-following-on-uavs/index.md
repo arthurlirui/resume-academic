@@ -1,10 +1,11 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: UAVs
 url_video: ""
-title: Monocular Long-term Target Following on UAVs
+title: UAVs Visual Tracking
+subtitle: Monocular Long-term Target Following on UAVs
 featured: true
 tags:
   - Deep Learning
