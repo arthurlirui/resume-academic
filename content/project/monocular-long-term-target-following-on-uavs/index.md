@@ -2,22 +2,17 @@
 slides: example
 url_pdf: ""
 date: 2016-04-27T00:00:00.000Z
-summary: UAVs
+summary: Monocular Long-term Target Following on UAVs
 url_video: ""
 title: UAVs Visual Tracking
-subtitle: Monocular Long-term Target Following on UAVs
+subtitle: ""
 featured: true
-tags:
-  - Deep Learning
+tags: []
 external_link: ""
 url_slides: ""
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
