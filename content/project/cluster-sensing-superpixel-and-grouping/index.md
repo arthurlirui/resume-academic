@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 date: 2016-04-27T00:00:00.000Z
-summary: Rui Li, Lu Fang, Cluster Sensing Superpixel and Grouping. In CVPRW, 2016.
+summary: Cluster Sensing Superpixel and Grouping
 url_video: ""
 title: Effiicient Superpixel and Grouping
 subtitle: ""
