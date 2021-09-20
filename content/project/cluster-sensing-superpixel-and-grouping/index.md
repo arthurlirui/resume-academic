@@ -1,10 +1,11 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: A very fast segmentation method.
 url_video: ""
-title: Cluster Sensing Superpixel and Grouping
+title: Effiicient Superpixel and Grouping
+subtitle: Cluster Sensing Superpixel and Grouping
 featured: true
 tags:
   - Deep Learning
