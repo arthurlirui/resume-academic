@@ -1,23 +1,19 @@
 ---
 slides: example
 url_pdf: ""
-title: Light Field Segmentation, Depth Refinement
-summary: Light Field Segmentation by Maximizing Entropy Rate
+date: 2016-04-27T00:00:00.000Z
+summary: Our Siggraph Asia 2019 project page, Hierarchical and View-invariant
+  Light Field Segmentation by Maximizing Entropy Rate on 4D Ray Graphs.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+title: Light Field Segmentation, Depth Refinement
+subtitle: ""
+featured: true
+tags: []
 external_link: ""
 url_slides: ""
-subtitle: Hierarchical and View-invariant Light Field Segmentation by Maximizing
-  Entropy Rate on 4D Ray Graphs.
-tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
