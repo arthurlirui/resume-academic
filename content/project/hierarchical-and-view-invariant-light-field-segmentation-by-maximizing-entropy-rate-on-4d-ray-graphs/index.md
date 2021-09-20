@@ -2,8 +2,8 @@
 slides: example
 url_pdf: ""
 date: 2016-04-27T00:00:00.000Z
-summary: Our Siggraph Asia 2019 project page, Hierarchical and View-invariant
-  Light Field Segmentation by Maximizing Entropy Rate on 4D Ray Graphs.
+summary: Hierarchical and View-invariant Light Field Segmentation by Maximizing
+  Entropy Rate on 4D Ray Graphs
 url_video: ""
 title: Light Field Segmentation, Depth Refinement
 subtitle: ""
