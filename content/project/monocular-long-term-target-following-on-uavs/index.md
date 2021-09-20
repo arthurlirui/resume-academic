@@ -1,33 +1,24 @@
 ---
-title: Monocular Long-term Target Following on UAVs
+slides: example
+url_pdf: ""
+date: 2016-04-27T00:00:00Z
 summary: UAVs
+url_video: ""
+title: Monocular Long-term Target Following on UAVs
+featured: true
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+  - Deep Learning
 external_link: ""
-
+url_slides: ""
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 TODO
