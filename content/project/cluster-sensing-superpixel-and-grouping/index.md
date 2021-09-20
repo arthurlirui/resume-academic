@@ -2,22 +2,18 @@
 slides: example
 url_pdf: ""
 date: 2016-04-27T00:00:00.000Z
-summary: A very fast segmentation method.
+summary: Rui Li, Lu Fang, Cluster Sensing Superpixel and Grouping. In CVPRW, 2016.
 url_video: ""
 title: Effiicient Superpixel and Grouping
-subtitle: Cluster Sensing Superpixel and Grouping
+subtitle: ""
 featured: true
 tags:
-  - Deep Learning
+  - Computer Vision
 external_link: ""
 url_slides: ""
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
