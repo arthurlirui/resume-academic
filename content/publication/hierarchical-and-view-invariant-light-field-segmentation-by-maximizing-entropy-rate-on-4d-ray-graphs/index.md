@@ -9,8 +9,8 @@ authors:
   - admin
   - Wolfgang Heidrich
 author_notes:
-  - KAUST
-  - KAUST
+  - 
+  - 
 doi: https://doi.org/10.1145/3355089.3356521
 publication: In Siggraph Asia, 2019
 publication_short: In Siggraph Asia, 2019
