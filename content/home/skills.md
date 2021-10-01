@@ -32,7 +32,7 @@ feature:
   icon: pandas
   icon_pack: custom
   name: 
-- description: preliminary
+- description: Preliminary
   icon: cuda
   icon_pack: custom
   name: 
