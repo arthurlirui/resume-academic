@@ -11,6 +11,8 @@ tags:
   - Computer Vision
 external_link: ""
 url_slides: ""
+categories:
+  - segmentation
 links: []
 image:
   caption: ""
