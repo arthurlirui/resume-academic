@@ -36,6 +36,10 @@ feature:
   icon: cuda
   icon_pack: custom
   name: 
+- description: Skilled
+  icon: scipy
+  icon_pack: custom
+  name: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
