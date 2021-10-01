@@ -17,19 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Skilled
-  icon: c.svg
+  icon: c
   icon_pack: custom
   name: C
 - description: Skilled
-  icon: c++.svg
+  icon: c++
   icon_pack: custom
   name: C++
 - description: Skilled
-  icon: python.svg
-  icon_pack: custom
+  icon: python
+  icon_pack: fab
   name: Python
 - description: Skilled
-  icon: pytorch.svg
+  icon: pytorch
   icon_pack: custom
   name: Pytorch
 - description: Entry-level
