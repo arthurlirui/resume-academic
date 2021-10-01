@@ -8,7 +8,10 @@ url_video: ""
 title: Reflection Separation and Removal
 subtitle: ""
 featured: true
-tags: []
+tags:
+  - Computational Photography
+  - Polarization
+  - Reflection Removal
 external_link: ""
 url_slides: ""
 links: []
