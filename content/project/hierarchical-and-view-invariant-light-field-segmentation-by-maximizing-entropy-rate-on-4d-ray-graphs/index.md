@@ -8,7 +8,11 @@ url_video: ""
 title: Light Field Segmentation, Depth Refinement
 subtitle: ""
 featured: true
-tags: []
+tags:
+  - Light Field
+  - Segmentation
+  - Depth
+  - Submodular Function
 external_link: ""
 url_slides: ""
 links: []

@@ -9,6 +9,8 @@ subtitle: ""
 featured: true
 tags:
   - Computer Vision
+  - Segmentation
+  - Grouping
 external_link: ""
 url_slides: ""
 categories:
