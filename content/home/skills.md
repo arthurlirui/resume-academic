@@ -19,23 +19,23 @@ feature:
 - description: Skilled
   icon: c
   icon_pack: custom
-  name: C
+  name: 
 - description: Skilled
   icon: c++
   icon_pack: custom
-  name: C++
+  name: 
 - description: Skilled
   icon: python
   icon_pack: fab
-  name: Python
+  name: 
 - description: Skilled
-  icon: pytorch
+  icon: pandas
   icon_pack: custom
-  name: Pytorch
-- description: Entry-level
+  name: 
+- description: preliminary
   icon: cuda
   icon_pack: custom
-  name: CUDA
+  name: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
