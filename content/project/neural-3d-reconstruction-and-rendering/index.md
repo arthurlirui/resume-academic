@@ -20,7 +20,7 @@ Neural rendering and differentiable rendering have become a popular and powerful
 
 ### Efficient High-resolution Depth Rendering
 
-![](fruit_full_27_depth.png "Full resolution and efficient rendering of scene depth: 4032x3024, with less than 1 mins rendering time by 1 GPUs. ")
+![](fruit_full_27_depth.png "Full resolution and efficient rendering of scene depth: 4032x3024, with less than 1 mins and 1 GPUs. ")
 
 ### System Design Key Points
 
