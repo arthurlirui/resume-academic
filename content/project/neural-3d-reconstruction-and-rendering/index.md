@@ -40,4 +40,6 @@ Neural rendering and differentiable rendering have become a popular and powerful
 
 ### More results to show:
 
-![](fruit_2.png) ![](fruit_2_depth.png)
+![](more.png) 
+![](urban.png "Urban Reconstruction by UAV view")
+![](3Dreconstruction.png "Output 3D model of mesh")
