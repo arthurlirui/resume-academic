@@ -6,6 +6,8 @@ draft: false
 featured: true
 authors:
   - admin
+tags:
+  - neural rendering
 image:
   filename: fruit_full_27.png
   focal_point: Smart
@@ -14,6 +16,8 @@ image:
     Training time 8 hours with 4 GPUs, Nvisia V100 in a 80 images dataset with
     full resolution. "
 ---
+![](fruit_full_27_depth.png "Ultral high resolution depth rendering")
+
 Neural rendering and differentiable rendering have become a popular and powerful toolkit for solving high-quality photorealistic 3D reconstruction and novel viewpoint synthesis. The pain points of neural rendering projects are computational efficiency and the scalability problem of solving large-scale and high-resolution cases, our project tries to improve those, to enable efficient, large-scale photorealistic 3D reconstruction, urban reconstruction, 3D intrinsic decomposition and editing. 
 
 <img src="./images/fruit_2.png" height="250"/><img src="./images/fruit_5.png" height="250"/><img src="./images/fruit_6.png" height="250"/><img src="./images/fruit_7.png" height="250"/>
