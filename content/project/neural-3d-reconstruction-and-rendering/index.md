@@ -16,6 +16,8 @@ image:
     Training time 8 hours with 4 GPUs, Nvisia V100 in a 80 images dataset with
     full resolution. "
 ---
+
+
 Neural rendering and differentiable rendering have become a popular and powerful toolkit for solving high-quality photorealistic 3D reconstruction and novel viewpoint synthesis. The pain points of neural rendering projects are computational efficiency and the scalability problem of solving large-scale and high-resolution cases, our project tries to improve those, to enable efficient, large-scale photorealistic 3D reconstruction, urban reconstruction, 3D intrinsic decomposition and editing. 
 
 ### Efficient High-resolution Depth Rendering
@@ -35,3 +37,7 @@ Neural rendering and differentiable rendering have become a popular and powerful
 7. Multi-GPUs training and rendering
 8. Activation Function (relu, rrelu, leaky_relu): there are several activation functions are using in the system, e.g., RGB, density, network output, network layers. Repalce ReLu to RReLU for randomized negative density outputs.
 9. Helper functions: save results for each epoch(done), save args.
+
+### More results to show:
+
+![](fruit_2.png) ![](fruit_2_depth.png)
