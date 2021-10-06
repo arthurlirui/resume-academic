@@ -16,6 +16,6 @@ image:
 ---
 Neural rendering and differentiable rendering have become a popular and powerful toolkit for solving high-quality photorealistic 3D reconstruction and novel viewpoint synthesis. The pain points of neural rendering projects are computational efficiency and the scalability problem of solving large-scale and high-resolution cases, our project tries to improve those, to enable efficient, large-scale photorealistic 3D reconstruction, urban reconstruction, 3D intrinsic decomposition and editing. 
 
-<img src="./fruit_2.png" height="250"/><img src="./fruit_5.png" height="250"/><img src="./fruit_6.png" height="250"/><img src="./fruit_7.png" height="250"/>
+<img src="./images/fruit_2.png" height="250"/><img src="./images/fruit_5.png" height="250"/><img src="./images/fruit_6.png" height="250"/><img src="./images/fruit_7.png" height="250"/>
 
-<img src="./fruit_2_depth.png" height="250"/><img src="./fruit_5_depth.png" height="250"/><img src="./fruit_6_depth.png" height="250"/><img src="./fruit_7_depth.png" height="250"/>
+<img src="./images/fruit_2_depth.png" height="250"/><img src="./images/fruit_5_depth.png" height="250"/><img src="./images/fruit_6_depth.png" height="250"/><img src="./images/fruit_7_depth.png" height="250"/>
