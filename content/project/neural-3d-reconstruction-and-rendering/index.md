@@ -16,7 +16,7 @@ image:
     Training time 8 hours with 4 GPUs, Nvisia V100 in a 80 images dataset with
     full resolution. "
 ---
-![](fruit_full_27_depth.png "Ultral high resolution depth rendering")
+![](fruit_full_27_depth.png "Full resolution and efficient rendering of scene depth: 4032x3024, with less than 1 mins rendering time by 1 GPUs. ")
 
 Neural rendering and differentiable rendering have become a popular and powerful toolkit for solving high-quality photorealistic 3D reconstruction and novel viewpoint synthesis. The pain points of neural rendering projects are computational efficiency and the scalability problem of solving large-scale and high-resolution cases, our project tries to improve those, to enable efficient, large-scale photorealistic 3D reconstruction, urban reconstruction, 3D intrinsic decomposition and editing. 
 
