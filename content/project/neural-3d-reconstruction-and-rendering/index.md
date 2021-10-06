@@ -40,6 +40,6 @@ Neural rendering and differentiable rendering have become a popular and powerful
 
 ### More results to show:
 
-![](fruit_full_27_depth.png)
+![](fruit_2.png)
 
-<img src="~/images/fruit_2.png" height="250"/>
+![](fruit_2_depth.png)
