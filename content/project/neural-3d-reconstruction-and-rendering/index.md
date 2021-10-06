@@ -35,9 +35,11 @@ Neural rendering and differentiable rendering have become a popular and powerful
 5. Representation Methods \[Fully Connected MLP, ACORN, NSVF, etc]: support MLP, ACORN, now. (idea: Octree-> arbitrary tree: xgboost boosting tree with objective)
 6. Learning Scheduler: support multiple learning rate scheduler, use ReduceLROnPlateau learning scheduler right now. 
 7. Multi-GPUs training and rendering
-8. Activation Function (relu, rrelu, leaky_relu): there are several activation functions are using in the system, e.g., RGB, density, network output, network layers. Repalce ReLu to RReLU for randomized negative density outputs.
+8. Activation Function (relu, rrelu, leaky_relu): there are several activation functions are using in the system, e.g., RGB, density, network output, network layers. Replace ReLu to RReLU for randomized negative density outputs.
 9. Helper functions: save results for each epoch(done), save args.
 
 ### More results to show:
 
-![](fruit_2.png) ![](fruit_2_depth.png)
+![](more.png) 
+![](urban.png "Urban Reconstruction by UAV view")
+![](3Dreconstruction.png "Output 3D model of mesh")
