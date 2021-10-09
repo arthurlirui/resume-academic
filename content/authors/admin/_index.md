@@ -27,7 +27,7 @@ education:
     - course: M.S. in Information and Communication Engineering
       institution: University of Science and Technology of China
       year: 2013-2016
-    - course: BSc in Information and Communication Engineering
+    - course: BSc in Communication Engineering
       institution: Xidian University
       year: 2009-2013
 email: rui.li@kaust.edu.sa
