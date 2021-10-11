@@ -13,3 +13,5 @@ image:
   preview_only: false
 ---
 [github](https://github.com/arthurlirui/KAUST-Nvidia-Geo)
+
+https://www.kaggle.com/c/geospatial-data-analytics/leaderboard
