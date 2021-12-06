@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Founder
-    company: Capmake
-    company_url: 'https://www.capmake.com'
+#  - title: Founder
+#    company: Capmake
+#    company_url: 'https://www.capmake.com'
 #    company_logo: org-gc
-    location: Internet
-    date_start: '2021-03-01'
-    date_end: ''
-    description: make digital art in blockchain, especiall from real scene data.
+#    location: Internet
+#    date_start: '2021-03-01'
+#    date_end: ''
+#    description: make digital art in blockchain, especiall from real scene data.
   - title: Founder
     company: SigTrading
     company_url: 'https://www.algotech.cc'
