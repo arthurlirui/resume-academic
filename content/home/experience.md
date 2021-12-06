@@ -55,7 +55,7 @@ experience:
     location: Hong Kong
     date_start: '2016-02-01'
     date_end: '2016-08-01'
-    description: design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
+    description: Design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
   
   - title: Research Intern
     company: DJI
@@ -64,7 +64,7 @@ experience:
     location: Shen Zhen, China
     date_start: '2014-09-01'
     date_end: '2015-08-31'
-    description: design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
+    description: Design vision tracking, object detection algorithms in a low-cost UAVs system, deploy first generation active tracking for Phatom 4 and Mavic.
     
   - title: Research Assistant
     company: State Key Laboratory of Integrated Services Networks
