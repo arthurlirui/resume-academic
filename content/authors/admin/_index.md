@@ -40,4 +40,4 @@ Research: my academic research interests are using various image measurements (e
 
 Else: I also put much time into high-frequency trading and algorithmic trading by AI agent system for better automatic decision making and predicting the near-future actions of trading rivals, currently run a very small private fund in cryptocurrency markets. If you are a daily trader, you will actually meet my trading bots in most mainstream markets (I close them due to market regulation issues recently). Later, I am considering combining blockchain and 3D reconstruction tasks for a photo-realistic NFT as well.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/resume_chinese.pdf" "newtab" >}}简历{{< /staticref >}}..
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/resume_chinese.pdf" "newtab" >}}简历{{< /staticref >}}.
