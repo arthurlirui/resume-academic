@@ -31,13 +31,13 @@ experience:
     date_end: ''
     description: make digital art in blockchain, especiall from real scene data.
   - title: Founder
-    company: Algotech
+    company: SigTrading
     company_url: 'https://www.algotech.cc'
 #    company_logo: org-gc
     location: Internet
     date_start: '2017-10-01'
     date_end: ''
-    description: make digital art in blockchain, especiall from real scene data.
+    description: (1) Design real-time AI trading system that supports mainstream deep learning framework, (2)design ticker-based trading algorithm and run them in crypto exchanges, (3) design 3D NFT from real world multiview data.
     
   - title: Research Intern
     company: Sadeem
