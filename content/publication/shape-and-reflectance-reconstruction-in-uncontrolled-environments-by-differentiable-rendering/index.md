@@ -9,8 +9,7 @@ authors:
   - Guangmin Zang
   - Miao Qi
   - Wolfgang Heidrich
-author_notes:
-  - KAUST
+author_notes: []
 publication: https://arxiv.org/abs/2110.12975
 abstract: >-
   Simultaneous reconstruction of geometry and reflectance properties in
