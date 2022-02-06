@@ -25,7 +25,7 @@ abstract: >-
 
   We present the results of captured scenes with complex geometry and various reflection types. Our method also shows superior performance compared to state-of-the-art alternatives in novel view synthesis visually and quantitatively
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
