@@ -3,7 +3,7 @@ title: Shape and Reflectance Reconstruction in Uncontrolled Environments by
   Differentiable Rendering
 subtitle: https://arxiv.org/abs/2110.12975
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Rui Li
   - Guangmin Zang
