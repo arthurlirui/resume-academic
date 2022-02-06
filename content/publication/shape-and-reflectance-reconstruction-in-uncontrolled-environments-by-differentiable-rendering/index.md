@@ -5,7 +5,7 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Rui Li
+  - admin
   - Guangmin Zang
   - Miao Qi
   - Wolfgang Heidrich
