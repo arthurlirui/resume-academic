@@ -3,7 +3,6 @@ title: Shape and Reflectance Reconstruction in Uncontrolled Environments by
   Differentiable Rendering
 subtitle: ""
 publication_types:
-  - "3"
   - "1"
 authors:
   - Rui Li
