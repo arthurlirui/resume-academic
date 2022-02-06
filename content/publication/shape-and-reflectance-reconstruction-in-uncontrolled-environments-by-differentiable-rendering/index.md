@@ -4,6 +4,7 @@ title: Shape and Reflectance Reconstruction in Uncontrolled Environments by
 subtitle: ""
 publication_types:
   - "3"
+  - "1"
 authors:
   - Rui Li
   - Guangmin Zang
