@@ -1,7 +1,7 @@
 ---
 title: Shape and Reflectance Reconstruction in Uncontrolled Environments by
   Differentiable Rendering
-subtitle: https://arxiv.org/abs/2110.12975
+subtitle: ""
 publication_types:
   - "3"
 authors:
@@ -11,6 +11,7 @@ authors:
   - Wolfgang Heidrich
 author_notes:
   - KAUST
+publication: https://arxiv.org/abs/2110.12975
 abstract: >-
   Simultaneous reconstruction of geometry and reflectance properties in
   uncontrolled environments remains a challenging problem. In this paper, we
