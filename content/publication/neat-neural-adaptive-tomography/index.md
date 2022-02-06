@@ -8,6 +8,7 @@ authors:
   - admin
   - Ramzi Idoughi
   - Wolfgang Heidrich
+publication: Technical Report
 draft: false
 featured: true
 image:
