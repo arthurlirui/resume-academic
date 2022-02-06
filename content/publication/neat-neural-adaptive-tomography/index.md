@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Darius RÜCKERT
   - Yuanhao Wang
-  - Rui Li
+  - admin
   - Ramzi Idoughi
   - Wolfgang Heidrich
 draft: false
