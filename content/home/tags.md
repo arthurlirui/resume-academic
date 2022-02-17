@@ -7,6 +7,7 @@ headless: true
 weight: 120
 title: Topics
 subtitle: ""
+active: true
 content:
   taxonomy: tags
   count: 20
