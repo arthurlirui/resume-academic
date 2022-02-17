@@ -1,13 +1,6 @@
 ---
 widget: contact
-
-# Activate this widget? true/false
 active: false
-
-# This file represents a page section.
-
-widget_id: RECENT-POSTS
-
 headless: true
 weight: 130
 title: Contact

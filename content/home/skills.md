@@ -1,12 +1,6 @@
 ---
 widget: featurette
-
-# Activate this widget? true/false
 active: false
-
-# This file represents a page section.
-widget_id: RECENT-POSTS
-
 headless: true
 weight: 100
 title: Skills
@@ -36,5 +30,4 @@ feature:
     icon: scipy
     icon_pack: custom
     name: null
-active: true
 ---
