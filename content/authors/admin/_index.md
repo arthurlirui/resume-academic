@@ -38,6 +38,6 @@ My Chinese name is 李睿. Ｉ am currently a Ph.D. student in [KAUST](https://w
 
 Research: my academic research interests are using various image measurements (e.g., light field, polarized images, normal RGB images) for higher-level challenging applications, such as photo-realistic 3D reconstruction/representation, viewpoint synthesis, depth estimation, reflection removal via hierarchical representation of neural networks in large-scale data setting. 
 
-Else: I am also developing high-frequency trading and algorithmic trading system on popular cryptocurrency trading [algotech](www.algotech.cc) as well as NFT for photo-realistic scene [capmake](wwww.capmake.com). 
+Else: I am also developing high-frequency trading and algorithmic trading system on popular cryptocurrency trading [algotech](https://www.algotech.cc) as well as NFT for photo-realistic scene [capmake](https://wwww.capmake.com). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/resume_chinese.pdf" "newtab" >}}简历{{< /staticref >}}.
