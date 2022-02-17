@@ -1,6 +1,8 @@
 ---
 widget: tag_cloud
 widget_id: RECENT-POSTS
+# Activate this widget? true/false
+active: false
 headless: true
 weight: 120
 title: Topics
