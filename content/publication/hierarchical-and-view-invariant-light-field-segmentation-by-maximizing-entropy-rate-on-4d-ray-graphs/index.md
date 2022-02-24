@@ -9,11 +9,11 @@ authors:
   - admin
   - Wolfgang Heidrich
 author_notes:
-  - 
-  - 
+  - null
+  - null
 doi: https://doi.org/10.1145/3355089.3356521
 publication: In Siggraph Asia, 2019
-publication_short: In Siggraph Asia, 2019
+publication_short: ACM Trans. on Graphics (Siggraph Asia), 2019
 abstract: >-
   Image segmentation is an important first step of many image processing,
   computer graphics, and computer vision pipelines. Unfortunately, it remains
