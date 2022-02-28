@@ -2,6 +2,7 @@
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
+active: false
 weight: 70
 title: Talks
 subtitle: null

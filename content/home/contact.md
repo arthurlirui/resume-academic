@@ -5,7 +5,6 @@ headless: true
 weight: 130
 title: Contact
 subtitle: null
-active: true
 content:
   autolink: true
   form:
