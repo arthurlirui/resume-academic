@@ -40,4 +40,6 @@ Research: my academic research interests are using various image measurements (e
 
 Else: I am also developing high-frequency trading and algorithmic trading system on popular cryptocurrency trading [algotech](https://www.algotech.cc) as well as NFT for photo-realistic scene [capmake](https://wwww.capmake.com). 
 
+#### "秉忠贞之志，守谦退之节"
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/resume_chinese.pdf" "newtab" >}}简历{{< /staticref >}}.
