@@ -10,8 +10,8 @@ authors:
   - Yuanhao Wang
   - Ramzi Idoughi
   - Wolfgang Heidrich
-publication: https://arxiv.org/abs/2202.02171
-publication_short: https://arxiv.org/abs/2202.02171
+publication: https://arxiv.org/abs/2202.13664
+publication_short: https://arxiv.org/abs/2202.13664
 draft: false
 featured: true
 image:
