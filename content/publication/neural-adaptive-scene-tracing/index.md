@@ -6,11 +6,12 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Darius RÜCKERT
+  - Darius Rückert
   - Yuanhao Wang
   - Ramzi Idoughi
   - Wolfgang Heidrich
-publication: Technical Report
+publication: https://arxiv.org/abs/2202.02171
+publication_short: https://arxiv.org/abs/2202.02171
 draft: false
 featured: true
 image:
