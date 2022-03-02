@@ -11,6 +11,7 @@ authors:
   - Wolfgang Heidrich
 author_notes: []
 publication: https://arxiv.org/abs/2110.12975
+publication_short: https://arxiv.org/abs/2110.12975
 abstract: >-
   Simultaneous reconstruction of geometry and reflectance properties in
   uncontrolled environments remains a challenging problem. In this paper, we

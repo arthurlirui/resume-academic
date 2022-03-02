@@ -3,12 +3,13 @@ title: "NeAT: Neural Adaptive Tomography"
 publication_types:
   - "0"
 authors:
-  - Darius RÜCKERT
+  - Darius Rückert
   - Yuanhao Wang
   - admin
   - Ramzi Idoughi
   - Wolfgang Heidrich
-publication: Technical Report
+publication: https://arxiv.org/abs/2202.02171
+publication_short: https://arxiv.org/abs/2202.02171
 draft: false
 featured: true
 image:
