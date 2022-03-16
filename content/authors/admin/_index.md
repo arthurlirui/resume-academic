@@ -34,7 +34,7 @@ email: rui.li@kaust.edu.sa
 superuser: true
 highlight_name: true
 ---
-My Chinese name is 李睿（https://www.arthurlirui.com/post/%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%AE%B6%E6%97%8F%E6%83%85%E5%86%B5/）. Ｉ am currently a Ph.D. student in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, I obtained my bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, as a master's student. 
+My Chinese name is [李睿]（https://www.arthurlirui.com/post/%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%AE%B6%E6%97%8F%E6%83%85%E5%86%B5/）. Ｉ am currently a Ph.D. student in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, I obtained my bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, as a master's student. 
 
 Research: my academic research interests are using various image measurements (e.g., light field, polarized images, normal RGB images) for higher-level challenging applications, such as photo-realistic 3D reconstruction/representation, viewpoint synthesis, depth estimation, reflection removal via hierarchical representation of neural networks in large-scale data setting. 
 
