@@ -40,6 +40,4 @@ Research: I am currently focusing on using various image measurements (e.g., lig
 
 Else: I am also developing algorithmic trading system on popular cryptocurrency exchanges as well as NFT generation technology for photo-realistic scene. 
 
-##### **"**举风电以长驱，笼天地而遐卷。一戎大定，六合为家。**"**
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/resume_chinese.pdf" "newtab" >}}简历{{< /staticref >}}.
