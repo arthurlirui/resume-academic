@@ -19,7 +19,7 @@ social:
   - display:
       header: false
     link: https://orcid.org/0000-0001-5332-2167
-    icon_pack: fas
+    icon_pack: fab
     icon: orcid
 organizations:
   - name: King Abdullah University of Science and Technology
