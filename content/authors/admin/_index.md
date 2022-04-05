@@ -20,7 +20,7 @@ social:
       header: false
     link: https://orcid.org/0000-0001-5332-2167
     icon_pack: fab
-    icon: orcid
+    icon: fa-orcid
 organizations:
   - name: King Abdullah University of Science and Technology
     url: https://www.kaust.edu.sa
