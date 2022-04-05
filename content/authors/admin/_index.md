@@ -16,6 +16,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/arthurlirui/
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-5332-2167
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: King Abdullah University of Science and Technology
     url: https://www.kaust.edu.sa
