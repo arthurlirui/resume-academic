@@ -8,7 +8,7 @@ authors:
   - admin
   - Ramzi Idoughi
   - Wolfgang Heidrich
-publication: https://arxiv.org/abs/2202.02171
+publication: ACM Trans. Graphics (Siggraph)
 publication_short: https://arxiv.org/abs/2202.02171
 draft: false
 featured: true
