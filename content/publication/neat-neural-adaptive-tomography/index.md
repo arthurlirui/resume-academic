@@ -9,7 +9,7 @@ authors:
   - Ramzi Idoughi
   - Wolfgang Heidrich
 publication: In ACM Trans. Graphics (Siggraph), 2022
-publication_short: In ACM Trans. Graphics (Siggraph), 2022
+publication_short: In ACM Trans. on Graphics (Siggraph), 2022
 draft: false
 featured: true
 image:
