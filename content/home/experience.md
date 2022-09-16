@@ -30,10 +30,19 @@ experience:
 #    date_start: '2021-03-01'
 #    date_end: ''
 #    description: make digital art in blockchain, especiall from real scene data.
+  - title: Research Intern
+    company: Sadeem
+    company_url: 'https://www.sony.com/'
+    company_logo: sony
+    location: R&D Center, Tokyo Laboratory 23, Tokyo, Japan
+    date_start: '2022-06-28'
+    date_end: '2022-09-02'
+    description: Algorithm research & development in the area of computational photography, including polarization, hyper-spectral, light field and compressive sensing etc. Realization of novel functionality with the combination of unique sensor/sensing system and signal processing will be studied. 
+
+
   - title: Founder
     company: SigTrading
     company_url: 'https://www.algotech.cc'
-#    company_logo: org-gc
     location: Internet
     date_start: '2018-05-01'
     date_end: ''
