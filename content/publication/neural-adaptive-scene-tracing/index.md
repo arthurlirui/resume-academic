@@ -1,5 +1,5 @@
 ---
-title: Neural Adaptive SCEne Tracing
+title: Neural Adaptive Scene Tracing
 publication_types:
   - "0"
   - "1"
@@ -10,8 +10,8 @@ authors:
   - Yuanhao Wang
   - Ramzi Idoughi
   - Wolfgang Heidrich
-publication: https://arxiv.org/abs/2202.13664
-publication_short: https://arxiv.org/abs/2202.13664
+publication: In Symposium on Vision, Modeling, and Visualization, 2022
+publication_short: In VMV, 2022
 draft: false
 featured: true
 image:

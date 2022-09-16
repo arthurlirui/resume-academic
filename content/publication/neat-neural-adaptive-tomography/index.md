@@ -8,8 +8,8 @@ authors:
   - admin
   - Ramzi Idoughi
   - Wolfgang Heidrich
-publication: https://arxiv.org/abs/2202.02171
-publication_short: https://arxiv.org/abs/2202.02171
+publication: In ACM Trans. Graphics (Siggraph), 2022
+publication_short: In ACM Trans. Graphics (Siggraph), 2022
 draft: false
 featured: true
 image:
