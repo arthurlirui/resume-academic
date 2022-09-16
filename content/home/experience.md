@@ -31,7 +31,7 @@ experience:
 #    date_end: ''
 #    description: make digital art in blockchain, especiall from real scene data.
   - title: Research Intern
-    company: Sadeem
+    company: SONY
     company_url: 'https://www.sony.com/'
     company_logo: sony
     location: R&D Center, Tokyo Laboratory 23, Tokyo, Japan
