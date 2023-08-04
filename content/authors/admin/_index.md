@@ -1,6 +1,6 @@
 ---
-title: Rui Li
-role: Ph.D. Student
+title: Dr. Rui Li
+role: Ph.D.
 bio: PhD student in KAUST
 interests:
   - Computational Photography
