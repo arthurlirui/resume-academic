@@ -1,6 +1,6 @@
 ---
 title: Rui Li
-role: Ph.D.
+role: Ph.D. in Electrical Computer Engineering
 bio: Ph.D. in Electrical Computer Engineering
 interests:
   - Computational Photography
