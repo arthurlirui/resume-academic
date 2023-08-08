@@ -1,7 +1,7 @@
 ---
-title: Dr. Rui Li
+title: Rui Li
 role: Ph.D.
-bio: PhD student in KAUST
+bio: Ph.D. in Electrical Computer Engineering
 interests:
   - Computational Photography
   - Photo-realistic 3D Reconstruction
@@ -39,10 +39,12 @@ email: rui.li@kaust.edu.sa
 superuser: true
 highlight_name: true
 ---
-My Chinese name is [李睿](https://www.arthurlirui.com/post/%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%AE%B6%E6%97%8F%E6%83%85%E5%86%B5/) from [Liuzhou](https://en.wikipedia.org/wiki/Liuzhou). Ｉgot  my Ph.D. in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, I obtained my bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, as a master's student. 
+Rui got his Ph.D. in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, he obtained his bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then he went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, as a master's student.  
 
-Research: I am currently focusing on using various image measurements (e.g., light field, polarized images, RGB images, CT) to solve higher-level inverse problem or application-driven problems, such as photo-realistic 3D scene reconstruction/representation, viewpoint synthesis, segmentation, depth estimation, reflection removal, etc.
+Research: his research focuses on using various image measurements (e.g., light field, polarized images, RGB images, CT) to solve higher-level inverse problem or application-driven problems, such as photo-realistic 3D scene reconstruction/representation, viewpoint synthesis, segmentation, depth estimation, reflection removal, etc.
 
 Else: I am also developing algorithmic trading system on popular cryptocurrency exchanges as well as NFT generation technology for photo-realistic scene. 
+
+My Chinese name is [李睿](https://www.arthurlirui.com/post/%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%AE%B6%E6%97%8F%E6%83%85%E5%86%B5/) from [Liuzhou](https://en.wikipedia.org/wiki/Liuzhou). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "uploads/resume_chinese.pdf" "newtab" >}}简历{{< /staticref >}}.
