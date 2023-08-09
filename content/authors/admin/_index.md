@@ -1,6 +1,6 @@
 ---
 title: Rui Li
-role: Ph.D. in Electrical Computer Engineering
+role: Ph.D. in ECE, KAUST
 bio: Ph.D. in Electrical Computer Engineering
 interests:
   - Computational Photography
