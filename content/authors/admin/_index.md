@@ -1,7 +1,7 @@
 ---
 title: Rui Li
-role: Ph.D. in ECE, KAUST
-bio: Ph.D. in Electrical Computer Engineering
+role: Research Scientist, Peng Cheng National Laboratory, Shenzhen, China
+bio: Research Scientist, PCNL
 interests:
   - Computational Photography
   - Photo-realistic 3D Reconstruction
@@ -39,7 +39,7 @@ email: rui.li@kaust.edu.sa
 superuser: true
 highlight_name: true
 ---
-Rui got his Ph.D. in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, he obtained his bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then he went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, got his master degree.
+Rui is a research scientist in Peng Cheng National Laboratory recently. Rui got his Ph.D. in [KAUST](https://www.kaust.edu.sa), [Computational Imaging Group](https://vccimaging.org), working with [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). Before that, he obtained his bachelor's degree in [Xidian University](https://en.xidian.edu.cn/), School of Telecommunications Engineering, and then he went to University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), School of Information Science and Technology, got his master degree. 
 
 Research: his research focuses on using various image measurements (e.g., light field, polarized images, RGB images, CT) to solve higher-level inverse problem or application-driven problems, such as photo-realistic 3D scene reconstruction/representation, viewpoint synthesis, segmentation, depth estimation, reflection removal, etc.
 
