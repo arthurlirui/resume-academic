@@ -1,6 +1,6 @@
 ---
 title: Rui Li
-role: Research Scientist, Peng Cheng National Laboratory, Shenzhen, China
+role: Research Scientist, Peng Cheng Laboratory, Shenzhen, China
 bio: Research Scientist, PCNL
 interests:
   - Computational Photography
